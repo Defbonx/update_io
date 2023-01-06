@@ -1,5 +1,5 @@
 {
   "version" : 1.3,
   "url_firm" :"https://defbonx.github.io/update_io/firmware_1.2.bin",
-  "url_Spiffs" :"https://defbonx.github.io/update_io/spiffs.bin"
+  "url_spiffs" :"https://defbonx.github.io/update_io/spiffs.bin"
 }
